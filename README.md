@@ -73,7 +73,7 @@ I really loved Microsoft's learning paths. Perfect to kickstart learning and the
 ### [Manage resources in Azure](https://docs.microsoft.com/en-us/learn/paths/manage-resources-in-azure/)
 |Module|Learned|
 |---|---|
-|[Align requirements with cloud types and service models in Azure](https://docs.microsoft.com/en-us/learn/modules/align-requirements-in-azure/)||
+|[Align requirements with cloud types and service models in Azure](https://docs.microsoft.com/en-us/learn/modules/align-requirements-in-azure/)|✅|
 |[Control Azure services with the CLI](https://docs.microsoft.com/en-us/learn/modules/control-azure-services-with-cli/)||
 |[Automate Azure tasks using scripts with PowerShell](https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/)||
 |[Predict costs and optimize spending for Azure](https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/)||
